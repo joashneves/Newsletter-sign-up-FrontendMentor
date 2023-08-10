@@ -24,7 +24,7 @@
 }
 .form li::before
 {
-    content: url(/assets/images/icon-list.svg);
+    content: url(./assets/images/icon-list.svg);
     background-size: contain;
     padding-right: 12px;
 }
@@ -94,7 +94,7 @@
 
 @media (min-width: 1440px) {
     body{
-        background-color:  hsl(231, 7%, 60%);
+        background-color:   hsl(234, 29%, 20%);
     }
     .form
     {
